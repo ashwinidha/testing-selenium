@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16755" started-at="2018-11-08T23:32:50Z" finished-at="2018-11-08T23:33:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16755" started-at="2018-11-08T23:32:50Z" finished-at="2018-11-08T23:33:07Z">
+      <class name="com.qa.testcases.MMLoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.MMLoginTest@4b53f538]" name="setUp" is-config="true" duration-ms="13170" started-at="2018-11-09T06:32:51Z" finished-at="2018-11-09T06:33:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.qa.testcases.MMLoginTest@4b53f538]" name="loginTest" duration-ms="2646" started-at="2018-11-09T06:33:04Z" finished-at="2018-11-09T06:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.MMLoginTest@4b53f538]" name="tearDown" is-config="true" duration-ms="896" started-at="2018-11-09T06:33:06Z" finished-at="2018-11-09T06:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.MMLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
